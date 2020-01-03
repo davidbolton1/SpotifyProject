@@ -1,4 +1,4 @@
-# Concergenics
+# ConcertCrawler
 
 
 Catie Evans and David Bolton's first major project utilizing API's from Spotify and Eventful.
